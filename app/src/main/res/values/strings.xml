@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorSquareMiniApp</string>
+    <string name="generate_colors">Generate colors</string>
+</resources>
