@@ -1,0 +1,1 @@
+Пример использования savedStateHandle во ViewModel
